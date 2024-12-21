@@ -1,0 +1,7 @@
+{
+  "name": "", <- Вставляем имя в кавычках
+  "website": "", <- Вставляем ссылку на свой Github
+  "description": "Best private community of validator in CIS",
+  "logo": "https://raw.githubusercontent.com/Mozgiii9/Chainbase/main/logo.png", <- Вставляем ссылку на свое лого в указанном формате
+  "twitter": "https://x.com/m0zgiii" <- Вставляем ссылку на свой профиль Twitter
+}
