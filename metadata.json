@@ -1,7 +1,7 @@
 {
-  "name": "", <- Вставляем имя в кавычках
-  "website": "", <- Вставляем ссылку на свой Github
+  "name": "vanilabtc"
+  "website": "https://github.com/VaniaHilkovets"
   "description": "Best private community of validator in CIS",
-  "logo": "https://raw.githubusercontent.com/Mozgiii9/Chainbase/main/logo.png", <- Вставляем ссылку на свое лого в указанном формате
-  "twitter": "https://x.com/m0zgiii" <- Вставляем ссылку на свой профиль Twitter
+  "logo": "https://raw.githubusercontent.com/VaniaHilkovets/Chainbase/main/png-transparent-download-downloading-save-file-storage-arrows-icon-thumbnail.png"
+  "twitter": "https://x.com/Vanilabtc"
 }
